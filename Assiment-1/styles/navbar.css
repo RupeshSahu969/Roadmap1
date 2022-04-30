@@ -1,0 +1,17 @@
+#navbar{
+    display:  flex;
+
+    border:  1px solid black;
+    justify-content: space-evenly;
+    background-color: rgb(153, 215, 91);
+    
+}
+h3{
+    color: black;
+}
+
+#options{
+    display: flex;
+    gap: 15px
+    ;
+}
